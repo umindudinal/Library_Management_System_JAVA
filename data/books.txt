@@ -1,0 +1,14 @@
+101|To Kill a Mockingbird|Harper Lee|0060935464|Classic Fiction|Available||||
+102|1984|George Orwell|0451524934|Dystopian|Available||||
+103|The Great Gatsby|F. Scott Fitzgerald|0743273567|Classic|Available||||
+104|Harry Potter & Sorcerer's Stone|J.K. Rowling|059035342X|Fantasy|Available||||
+105|The Hobbit|J.R.R. Tolkien|054792822X|Fantasy|Available||||
+106|Pride and Prejudice|Jane Austen|1503290565|Romance / Classic|Available||||
+107|The Catcher in the Rye|J.D. Salinger|0316769487|Fiction|Available||||
+108|The Chronicles of Narnia|C.S. Lewis|0066238501|Fantasy|Available||||
+109|The Lord of the Rings|J.R.R. Tolkien|0618640150|Fantasy|Available||||
+110|Charlotte's Web|E.B. White|0061124958|Children's Lit|Available||||
+111|Madoldoowa|Martin Wickramasinghe|2002039293|Sri Lankan Literature|Available||||
+112|Anna Karenina|Leo Tolstoy|3554211513|Classic Fiction|Available||||
+113|Clean Code: A Handbook of Agile Craft|Robert C. Martin|0132350882|Technology / Software|Available||||
+114|Introduction to Algorithms|Thomas H. Cormen|0262033844|Computer Science|Issued|23IT0470|S U Dinal|2026-10-23 14:08:41|2026-11-06
